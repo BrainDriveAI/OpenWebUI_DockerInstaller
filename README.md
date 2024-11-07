@@ -1,23 +1,19 @@
-Here's a README file for your Python project:
-
----
-
 # Open WebUI Installer
 
-Open WebUI Installer is a desktop application developed by **BrainDrive** for setting up and managing Docker containers that host various flavors of the Open WebUI. The installer automates the process of checking Docker installation, managing container setups, and updating configurations with options tailored for different Open WebUI setups.
+Open WebUI Installer is a desktop application developed by **BrainDrive** for setting up Docker containers that host various configurations of the Open WebUI. The installer automates the process of checking Docker installation, managing container setups, and updating configurations with options tailored for different Open WebUI setups.
 
 ## Features
 
 - **Automated Docker Installation**: Detects if Docker is installed, installs it if necessary, and provides setup instructions.
 - **Container Management**: Easily start, stop, and update containers, with specific commands for Open WebUI configurations.
-- **Flavor Selection**: Choose from multiple Open WebUI flavors, including options for local and remote connections, GPU support, and bundled configurations with Ollama.
+- **Configuration Selection**: Choose from multiple Open WebUI configurations, including options for local and remote connections, GPU support, and bundled setups with Ollama.
 - **Logger Integration**: Logs all actions to both the UI and a file, enabling users to monitor setup and troubleshooting steps.
 
 ## Getting Started
 
 ### Prerequisites
 
-- **Python 3.8+**
+- **Python 3.11+**
 - **Docker**
 - **Tkinter** for GUI
 
