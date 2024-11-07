@@ -49,10 +49,10 @@ Ensure you have Python installed and Docker available on your system. The instal
 
 ## Usage
 
-1. **Launch the Application**: Run `main_script.py` to start the Open WebUI Installer.
+1. **Launch the Application**: Run `OpenWebUIInstaller.py` to start the Open WebUI Installer.
 2. **Install Docker**: Click "Install Docker" if Docker is not already installed on your system.
 3. **Set Up Containers**: Choose a flavor from the options panel, then click "Set Up Containers" to initiate the container setup.
-4. **Update Containers**: Once containers are set up, you can click "Update Containers" to refresh with the latest configuration.
+4. **Additional Containers**: Once the selected configuration container is running, it will automatically start up the Pipeline and Watchtower containers.
 
 Each action is logged in the application window and saved in a timestamped file under the `./logs` directory.
 
