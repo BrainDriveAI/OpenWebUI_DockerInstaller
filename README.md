@@ -24,7 +24,7 @@ Ensure you have Python installed and Docker available on your system. The instal
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/OpenWebUI_DockerInstaller.git
+   git clone https://github.com/BrainDriveAI/OpenWebUI_DockerInstaller.git
    cd OpenWebUI_DockerInstaller
    ```
 
@@ -67,7 +67,7 @@ Each action is logged in the application window and saved in a timestamped file 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
 
@@ -75,4 +75,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Acknowledgments
 
-Open WebUI Installer was developed by **BrainDrive**. Special thanks to the Open WebUI community for supporting the ecosystem.
+Open WebUI Installer was developed by **BrainDrive.AI**. Special thanks to the Open WebUI community for supporting the ecosystem.
