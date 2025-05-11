@@ -1,3 +1,7 @@
+> ⚠️ **Archived Project**  
+> This project is no longer actively maintained by the original authors.  
+> The repository remains available for reference and community use.
+
 # Open WebUI Installer
 
 Open WebUI Installer is a desktop application developed by **BrainDrive** for setting up Docker containers that host various configurations of the Open WebUI. The installer automates the process of checking Docker installation, managing container setups, and updating configurations with options tailored for different Open WebUI setups.
